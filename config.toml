@@ -1,0 +1,15 @@
+baseURL = 'https://myl3z.me/'
+languageCode = 'de-de'
+title = 'cafer - AB Testing'
+
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
